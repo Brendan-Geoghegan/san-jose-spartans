@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+
+#facts {
+    width: 50%;
+    margin: auto;
+}
+
+table {
+    border: 1px solid;
+}
