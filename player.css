@@ -1,0 +1,11 @@
+.players h1{
+    margin-left: 10px;
+}
+.players ul{
+    display: flex;
+    list-style-type: none;
+}
+
+.player{
+    margin: 0px 20px 0px 20px;
+}
