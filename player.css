@@ -8,4 +8,14 @@
 
 .player{
     margin: 0px 20px 0px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 300px;
+    height: 400px;
+}
+
+.player img{
+    max-height: 300px;
+    max-width: 200px;
 }
