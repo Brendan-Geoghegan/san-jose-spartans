@@ -19,3 +19,13 @@
     max-height: 300px;
     max-width: 200px;
 }
+
+#proHoF h1, #collegeHoF h1{
+    background-color: #0038A8;
+    color: white;
+}
+
+#currentNFL h1, #notables h1{
+    background-color: #FFB81A;
+    color: white;
+}
